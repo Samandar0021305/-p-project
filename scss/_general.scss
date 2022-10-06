@@ -8,6 +8,9 @@
 *::after, *::before{
     box-sizing: inherit;
 }
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+}
 
 @import "./normalize";
 @import "./fonts";
