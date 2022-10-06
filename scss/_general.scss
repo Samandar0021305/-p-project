@@ -12,3 +12,10 @@
 @import "./normalize";
 @import "./fonts";
 @import "./varibales";
+@import "./container";
+ul,li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
